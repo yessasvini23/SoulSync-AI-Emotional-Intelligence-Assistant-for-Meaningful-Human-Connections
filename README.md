@@ -1,0 +1,1 @@
+# SoulSync-AI-Emotional-Intelligence-Assistant-for-Meaningful-Human-Connections
