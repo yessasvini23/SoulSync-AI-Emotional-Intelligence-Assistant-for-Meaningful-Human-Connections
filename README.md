@@ -8,6 +8,10 @@ Try the real-time emotional intelligence assistant in your browser:
 👉 https://connection-coach-ai.lovable.app/coach  
 No installation. No setup. Just start a conversation and watch SoulSync AI analyze emotional cues instantly.
 
+### 📝 Blog Article  
+Learn the story and vision behind SoulSync AI:  
+👉 https://medium.com/@yessasvinis/soulsync-ai-the-technology-that-brings-back-what-the-digital-age-took-away-human-connection-a6a318d8d0ff
+
 ---
 
 ## 🌟 Overview
@@ -16,24 +20,24 @@ No installation. No setup. Just start a conversation and watch SoulSync AI analy
 ---
 
 ## 💡 The Problem
-Despite being more digitally connected than ever, people are becoming emotionally disconnected.  
-Conversations lack depth. Misunderstandings are common. Loneliness is rising.  
-Existing AI tools answer questions — but none help humans understand *each other* better.
+People are more digitally connected than ever yet emotionally more disconnected.  
+Conversations lack depth, misunderstandings are frequent, and loneliness is rising.  
+Most AI tools answer questions — but none help humans understand *each other* better.
 
 ---
 
 ## 🚀 The Solution
-SoulSync AI provides real-time emotional support during human-to-human conversations with:
+SoulSync AI provides real-time emotional support during human-to-human conversations through:
 
 ### 🔊 **Real-Time Conversation Analysis**
 - Voice tone & sentiment detection  
-- Emotional energy level tracking  
+- Emotional energy tracking  
 - Non-verbal cue interpretation  
 - Empathy gap detection  
 - Active listening measurement  
 
 ### 🤝 **Real-Time EI Coaching**
-- Subtle guidance via prompts  
+- Subtle guidance prompts  
 - “What they might be feeling” insights  
 - Conversational repair suggestions  
 - Emotional cue interpretation  
@@ -49,14 +53,14 @@ SoulSync AI provides real-time emotional support during human-to-human conversat
 ---
 
 ## 🎥 Live Demo Experience
-In the live demo:
+In the demo:
 - Two participants talk naturally  
 - SoulSync analyzes emotions in real time  
 - Subtle prompts appear:  
   - _“She’s holding something back — encourage her gently.”_  
   - _“He isn’t feeling understood — reflect his last sentence.”_  
 - Connection Score visibly shifts as empathy improves  
-- Viewers can watch the emotional transformation instantly  
+- Viewers witness instant emotional transformation  
 
 ---
 
@@ -65,18 +69,18 @@ In the live demo:
 | Technology        | Role |
 |------------------|------|
 | **Live App**     | https://connection-coach-ai.lovable.app/coach |
-| **Cloud Run**    | Hosts real-time analysis backend |
-| **Gemini Speech** | Detects voice sentiment & emotional tone |
-| **Audio AI APIs** | Speech pattern & empathy cue recognition |
+| **Cloud Run**    | Hosts the real-time analysis backend |
+| **Gemini Speech** | Voice sentiment & emotional tone detection |
+| **Audio AI APIs** | Speech pattern + empathy cue analysis |
 | **Firestore**    | Stores anonymized conversation data & insights |
 | **Vertex AI**    | Custom EI & connection prediction models |
-| **Cloud Functions** | Event triggers & real-time pipeline processing |
+| **Cloud Functions** | Real-time event triggers & processing |
 
 ---
 
 # 🧩 Features You Can Test in the Live App
 - Real-time emotional cue detection  
-- Connection score meter  
+- Dynamic connection score meter  
 - Empathy prompts  
 - Reflective listening suggestions  
 - Conversation insights  
@@ -114,10 +118,10 @@ In the live demo:
 
 # 🏆 Why SoulSync Wins Judges
 - Not just an app — **a humanity movement**  
-- Perfect alignment with **Google's AI for Social Good**  
-- Live demo produces genuine emotional reactions  
-- Tackles loneliness with compassion + technology  
-- Reinvents AI as a tool for **deeper human connection**  
+- Perfect fit for **Google's AI for Social Good** mission  
+- Live demo evokes powerful emotional reactions  
+- Combats loneliness with compassion + technology  
+- Reinvents AI as a tool for **deep human connection**  
 
 ---
 
@@ -157,14 +161,13 @@ Copy code
 - No raw audio stored  
 - Local/on-device processing when possible  
 - User consent required  
-- Emotional insights are private and secure  
+- Emotional insights remain private and secure  
 - Designed for human empowerment, not manipulation  
 
 ---
 
 # 🤝 Contributing
 We welcome:
-
 - Feature suggestions  
 - Bug reports  
 - Pull requests  
