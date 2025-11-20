@@ -150,9 +150,7 @@ Contributions, feature requests, and discussions are welcome.
 Open an issue or submit a pull request to collaborate.
 
 ---
-
 ## 📬 Contact
 For collaborations, demos, or technical discussions:  
 **Email:** yessasvini.s@gmail.com
 
-## 📁 Project Structure
