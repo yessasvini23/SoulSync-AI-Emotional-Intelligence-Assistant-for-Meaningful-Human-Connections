@@ -1,4 +1,3 @@
-```markdown
 # SoulSync AI – Emotional Intelligence Assistant for Meaningful Human Connections
 
 ## 🌟 Live Demo  
@@ -119,17 +118,18 @@ Judges and users witness transformation **live and instantly**.
 ---
 
 ## 📁 Project Structure
-```
+
+
 SoulSync-AI/
 │
 ├── backend/
 │   ├── cloud-run/
-│   ├── emotional-analysis-engine/
-│   └── functions/
+│   ├── functions/
+│   └── emotional-analysis-engine/
 │
 ├── models/
-│   ├── ei-connection-models/
-│   └── vertex-ai/
+│   ├── vertex-ai/
+│   └── custom-ei-models/
 │
 ├── web/
 │   ├── live-app/
@@ -145,31 +145,39 @@ SoulSync-AI/
 │
 └── README.md
 
-```
+---
+
+## 🔒 Privacy & Ethical AI
+
+- No raw audio stored  
+- Local/on-device processing when possible  
+- User consent required  
+- Emotional insights are private and secure  
+- Designed for **human empowerment**, not manipulation  
 
 ---
 
-## 🔒 Privacy & Ethics
-- On-device or low-latency local processing when possible  
-- No raw voice stored  
-- All insights are private to the user  
-- Consent-based emotional analysis  
+## 🤝 Contributing
 
----
+We welcome:
 
-## 🤝 Contribute
-Pull requests and issues are welcome!  
-Your improvements can help bring more emotional intelligence into the world.
+- Feature suggestions  
+- Bug reports  
+- Pull requests  
+- UI/UX improvements  
+- Research contributions  
+
+Feel free to open issues or submit PRs!
 
 ---
 
 ## 📬 Contact
-📧 **yessasvini.s@gmail.com**  
-For demos, collaborations, or hackathon submissions.
+
+For collaboration, demos, or partnership inquiries:  
+📧 **yessasvini.s@gmail.com**
 
 ---
 
-### ⭐ Try It Now  
-👉 **https://connection-coach-ai.lovable.app/coach**  
-Experience the future of emotionally intelligent AI.  
-```
+## ⭐ Try It Yourself  
+Experience the future of emotionally intelligent conversations:  
+👉 **https://connection-coach-ai.lovable.app/coach**
